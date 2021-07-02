@@ -17,9 +17,9 @@ plan ahead for future walks.
 
 
 - Use the bottom navigation bar to navigate between 
-1) Walks - where users can see all their walks (press the floating button to start a new walk)
-2) Weather - where users can view the weather forcasts for the day and the day after
-3) Stats - a helpful aggregation of user jog data based on distance and time
+  1) Walks - where users can see all their walks (press the floating button to start a new walk)
+  2) Weather - where users can view the weather forcasts for the day and the day after
+  3) Stats - a helpful aggregation of user jog data based on distance and time
 
 
 
