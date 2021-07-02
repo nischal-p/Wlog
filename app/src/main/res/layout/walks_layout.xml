@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="visible"
+    android:id="@+id/walks_recycler_view_outside_layout"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/walks_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="40dp"
+        android:text="End of Walk History"/>
+
+</LinearLayout>

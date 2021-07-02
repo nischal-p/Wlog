@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">W-Logs</string>
+    <string name="title_home">Walks</string>
+    <string name="title_weather">Weather</string>
+    <string name="title_stats">Stats</string>
+    <string name="title_activity_new_walk">Map</string>
+    <string name="cancel_walk_btn_txt">Cancel Walk</string>
+    <string name="end_walk_btn_txt">End Walk</string>
+    <string name="drop_pin_btn_txt">Drop a marker!</string>
+    <string name="description_hint_text">A Brief Caption About the Jog</string>
+    <string name="distance_so_far">Distance so far in metres: </string>
+    <string name="time_so_far">Time elapsed: </string>
+    <string name="max_dist_txt">MD</string>
+    <string name="max_time_txt">MT</string>
+    <string name="avg_dist_txt">AD</string>
+    <string name="avg_time_txt">AT</string>
+    <string name="total_dist_txt">TD</string>
+    <string name="total_time_txt">TT</string>
+    <string name="location_lbl_txt">Location</string>
+    <string name="today_lbl_txt">Today</string>
+    <string name="tomorrow_lbl_txt">Tomorrow</string>
+    <string name="high_lbl_txt">High</string>
+    <string name="low_lbl_txt">Low</string>
+    <string name="temp_lbl_txt">Temp</string>
+    <string name="expect_lbl_txt">Expect</string>
+    <string name="weather_credits">Weather data from MetaWeatherAPI</string>
+
+    <string name="max_lbl_txt">Max</string>
+    <string name="avg_lbl_txt">Avg</string>
+    <string name="total_lbl_txt">Total</string>
+    <string name="time_lbl_txt">Time(h:mm:ss)</string>
+    <string name="dist_lbl_txt">Distance(miles)</string>
+</resources>

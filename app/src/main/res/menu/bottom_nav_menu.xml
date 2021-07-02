@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_walks"
+        android:icon="@drawable/ic_baseline_timeline_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_weather"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"
+        android:title="@string/title_weather" />
+
+    <item
+        android:id="@+id/navigation_stats"
+        android:icon="@drawable/ic_baseline_stats_24"
+        android:title="@string/title_stats" />
+
+</menu>
