@@ -1,5 +1,5 @@
 # Wlog
-An app to log your walks and more.
+An app to log your walks and more. [Demo](https://drive.google.com/file/d/116bdy8NFT4XaS16KcoTsyfyiRwZhd-vs/view "WLOG Demo Video")
 
 - Users are able to log their walks by simply dropping pins on on a map
 based on their current location as they go off on their daily jog.
